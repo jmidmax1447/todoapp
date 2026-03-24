@@ -4,7 +4,7 @@
   "main": "index.js",
   "homepage": "https://jmidmax1447.github.io/todoapp",
   "scripts": {
-    "predeploy": "npx expo export -p web --output-dir dist",
+    "predeploy": "npx expo export -p web --output-dir dist --public-url /todoap",
     "deploy": "gh-pages -d dist",
     "start": "expo start",
     "android": "expo start --android",
