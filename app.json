@@ -23,8 +23,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png",
-      "publicPath": "/"
+      "favicon": "./assets/favicon.png"
     }
   }
 }
