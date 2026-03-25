@@ -24,7 +24,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-      "basePath": "/todoapp"
+      "baseUrl": "/todoapp"
     }
   }
 }
